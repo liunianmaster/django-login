@@ -17,7 +17,7 @@ cycler==0.10.0
 dask==1.0.0
 decorator==4.3.0
 dill==0.2.8.2
-Django==2.1.4
+Django==2.2.24
 django-ranged-response==0.2.0
 django-simple-captcha==0.5.11
 dlib==19.6.1
