@@ -65,7 +65,7 @@ pyreadline==2.1
 python-dateutil==2.7.5
 pytz==2018.7
 PyWavelets==1.0.1
-pywin32==224
+pywin32==301
 queuelib==1.5.0
 requests==2.21.0
 scikit-image==0.14.1
